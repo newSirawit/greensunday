@@ -7,7 +7,7 @@ function App() {
       <div class="nav">
         <div className="w-fit h-[60px] text-[12px] space-x-10 font-serif flex items-center fixed right-10 top-5 z-10">
           <span className="text-[#ADB525]">HOME</span>
-          <span>ABOUT</span>
+          <span>ABOUTTT</span>
           <span>PORTFOLIO</span>
           <span>SERVICES</span>
           <span>CONTACT</span>
